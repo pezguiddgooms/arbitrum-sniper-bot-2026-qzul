@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (10316b8e6cef4e18)
+project:
+  name: arbitrum-sniper-bot-2026-qzul
+  tag: 10316b8e6cef4e18
+  env: production
+cfg_nexuszqrdz2:
+  enabled: true
+  workers: 8
+cfg_sigmaz1enzo:
+  timeout_sec: 18
+  retry: 3
+cfg_bufferzv9am8:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
