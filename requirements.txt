@@ -1,0 +1,6 @@
+# Generated deps — tag 10316b8e
+click>=8.1.0,<9
+pydantic>=2.6.0,<3
+pyyaml>=6.0.1,<7
+httpx>=0.27.0,<1
+requests>=2.31.0,<3
